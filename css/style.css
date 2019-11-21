@@ -50,10 +50,7 @@ h2 {
 }
 
 
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-}
+
 
 #press {
     margin-bottom: 20px;
